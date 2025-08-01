@@ -1,0 +1,5 @@
+[
+  { "isbn": "1111", "title": "Node.js Basics", "author": "John Doe" },
+  { "isbn": "2222", "title": "Express in Action", "author": "Jane Smith" },
+  { "isbn": "3333", "title": "Learning JavaScript", "author": "John Doe" }
+]
